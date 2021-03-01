@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.ca05778c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ca05778c.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b3041f66.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b3041f66.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.9f8e80bb.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.9f8e80bb.js.map",
-    "static/js/2.750d0c7a.chunk.js": "/portfolio/static/js/2.750d0c7a.chunk.js",
-    "static/js/2.750d0c7a.chunk.js.map": "/portfolio/static/js/2.750d0c7a.chunk.js.map",
+    "static/js/2.e23356ea.chunk.js": "/portfolio/static/js/2.e23356ea.chunk.js",
+    "static/js/2.e23356ea.chunk.js.map": "/portfolio/static/js/2.e23356ea.chunk.js.map",
     "static/js/3.f999eb5b.chunk.js": "/portfolio/static/js/3.f999eb5b.chunk.js",
     "static/js/3.f999eb5b.chunk.js.map": "/portfolio/static/js/3.f999eb5b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/js/2.750d0c7a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.750d0c7a.chunk.js.LICENSE.txt",
+    "static/js/2.e23356ea.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e23356ea.chunk.js.LICENSE.txt",
     "static/media/Gifos.fca3334a.webm": "/portfolio/static/media/Gifos.fca3334a.webm",
     "static/media/Landingpostcast.863ade45.webm": "/portfolio/static/media/Landingpostcast.863ade45.webm",
     "static/media/New Year Countdown.aa381524.webm": "/portfolio/static/media/New Year Countdown.aa381524.webm",
@@ -20,7 +20,7 @@
     "static/media/data_warehouse.f4552732.png": "/portfolio/static/media/data_warehouse.f4552732.png",
     "static/media/e-commerce.5be38699.webm": "/portfolio/static/media/e-commerce.5be38699.webm",
     "static/media/e-commerce.60227f52.png": "/portfolio/static/media/e-commerce.60227f52.png",
-    "static/media/german-saracca-cv-ingles.1e805fed.pdf": "/portfolio/static/media/german-saracca-cv-ingles.1e805fed.pdf",
+    "static/media/german-saracca-cv-ingles.424d73f8.pdf": "/portfolio/static/media/german-saracca-cv-ingles.424d73f8.pdf",
     "static/media/gifos.026618a0.png": "/portfolio/static/media/gifos.026618a0.png",
     "static/media/html.eb731943.png": "/portfolio/static/media/html.eb731943.png",
     "static/media/js.a4d0179e.png": "/portfolio/static/media/js.a4d0179e.png",
@@ -39,7 +39,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9f8e80bb.js",
-    "static/js/2.750d0c7a.chunk.js",
-    "static/js/main.ca05778c.chunk.js"
+    "static/js/2.e23356ea.chunk.js",
+    "static/js/main.b3041f66.chunk.js"
   ]
 }
